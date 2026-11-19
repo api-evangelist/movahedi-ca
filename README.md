@@ -1,4 +1,4 @@
-# movahedi-ca
+# Mohammad Movahedi
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,117 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-movahedi-ca is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://movahedi.ca/
+Mohammad Movahedi is a privacy and AI governance consultant based in Mississauga, offering project‑based privacy assessments, vendor reviews, consent practice guidance, and technical AI governance solutions. He provides consulting services, custom AI tools, and data workflow designs, focusing on Canadian privacy law compliance and ethical AI implementation.
+
+**Areas:** Privacy · AI Governance · Consulting · Mississauga · Canada
+
+## Mohammad Movahedi on APIs.io
+
+Everything profiled for Mohammad Movahedi is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/movahedi-ca/](https://apis.io/providers/movahedi-ca/)** — or go straight to one of the APIs or properties below.
+
+### APIs (10)
+
+- [Mohammad Movahedi Breach Deadlines API](https://apis.io/apis/movahedi-ca/movahedi-ca-breach-deadlines-api/) — The Breach Deadlines API from Mohammad Movahedi — 1 operation(s) for breach deadlines.
+- [Mohammad Movahedi Cookies API](https://apis.io/apis/movahedi-ca/movahedi-ca-cookies-api/) — The Cookies API from Mohammad Movahedi — 2 operation(s) for cookies.
+- [Mohammad Movahedi Crawlers API](https://apis.io/apis/movahedi-ca/movahedi-ca-crawlers-api/) — The Crawlers API from Mohammad Movahedi — 3 operation(s) for crawlers.
+- [Mohammad Movahedi Enforcement API](https://apis.io/apis/movahedi-ca/movahedi-ca-enforcement-api/) — The Enforcement API from Mohammad Movahedi — 2 operation(s) for enforcement.
+- [Mohammad Movahedi Glossary API](https://apis.io/apis/movahedi-ca/movahedi-ca-glossary-api/) — The Glossary API from Mohammad Movahedi — 2 operation(s) for glossary.
+- [Mohammad Movahedi Health API](https://apis.io/apis/movahedi-ca/movahedi-ca-health-api/) — The Health API from Mohammad Movahedi — 1 operation(s) for health.
+- [Mohammad Movahedi Law25 API](https://apis.io/apis/movahedi-ca/movahedi-ca-law25-api/) — The Law25 API from Mohammad Movahedi — 1 operation(s) for law25.
+- [Mohammad Movahedi Openapi.json API](https://apis.io/apis/movahedi-ca/movahedi-ca-openapi-json-api/) — The Openapi.json API from Mohammad Movahedi — 1 operation(s) for openapi.json.
+- [Mohammad Movahedi Terms API](https://apis.io/apis/movahedi-ca/movahedi-ca-terms-api/) — The Terms API from Mohammad Movahedi — 1 operation(s) for terms.
+- [Mohammad Movahedi Vm Health API](https://apis.io/apis/movahedi-ca/movahedi-ca-vm-health-api/) — The Vm Health API from Mohammad Movahedi — 1 operation(s) for vm health.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Mohammad Movahedi Agentic Access](https://apis.io/agentic-access/movahedi-ca/movahedi-ca-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Mohammad Movahedi API Rules](https://apis.io/rules/movahedi-ca/movahedi-ca-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Mohammad Movahedi Authentication](https://apis.io/security/movahedi-ca/movahedi-ca-authentication/)
+- [Mohammad Movahedi Domain Security](https://apis.io/security/movahedi-ca/movahedi-ca-domain-security/)
+- [Mohammad Movahedi Vulnerability Disclosure](https://apis.io/security/movahedi-ca/movahedi-ca-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://movahedi.ca/)
+- [Documentation](https://movahedi.ca/fr/guides/)
+- [API reference](https://movahedi.ca/developers/)
+- [Changelog](https://movahedi.ca/changelog/)
+- [Security](https://movahedi.ca/trust-center/responsible-disclosure/)
+- [Trust centre](https://movahedi.ca/trust-center/)
+- [Terms of service](https://movahedi.ca/terms/)
+- [Privacy policy](https://movahedi.ca/privacy-policy)
+- [GitHub](https://github.com/movahedi-ca)
+
+## API Evangelist rating
+
+**Kin Score 44.5** — developing · rubric 0.28.0 · scored 2026-11-18
+
+| Facet | Score |
+|---|---|
+| Discoverability | 78.6 |
+| Contract quality | 38.9 |
+| Contract governance | 65.5 |
+| Operational transparency | 28.6 |
+| Developer ergonomics | 38.1 |
+| Access clarity | 23.4 |
+
+**Agent readiness 41.7** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 35.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/movahedi-ca/](https://apis.io/providers/movahedi-ca/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Mohammad Movahedi: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/movahedi-ca/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
